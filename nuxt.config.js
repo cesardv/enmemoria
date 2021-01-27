@@ -16,7 +16,7 @@ export default {
     },
     get title() {
       delete this.title
-      return this.title =  'In memoriam de' + name
+      return this.title =  'In memoriam de ' + name
     },
     meta: [
       { charset: 'utf-8' },
