@@ -15,7 +15,7 @@
       </ul>
       <h2>Crematorio <span>3:00pm</span></h2>
       <ul class="fa-ul">
-        <ListItem>Servicio privado antes a las 2pm at Los Olivos</ListItem>
+        <ListItem>Servicio privado antes a las 2pm en la funeraria Los Olivos</ListItem>
         <ListItem>Sus cenizas estaran acompañando la tumba de Betty en Santander de Quilichao.</ListItem>
       </ul>
       <p class="highlight">QED</p>
